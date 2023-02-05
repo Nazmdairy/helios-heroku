@@ -1,5 +1,5 @@
 anytree
-aria2p
+git+https://github.com/rajanvibes/amriac2mp
 asyncio
 beautifulsoup4
 cfscrape
@@ -21,11 +21,12 @@ pyrogram==2.0.66
 python-dotenv
 python-magic
 python-telegram-bot==13.15
-qbittorrent-api
+git+https://github.com/rajanvibes/qmbittomrrent-ampi
 requests
 SecretStorage
 telegraph
 tenacity
 tgCrypto
 xattr
-yt-dlp
+git+https://github.com/rajanvibes/ymt-dmlp
+git+https://github.com/rajanvibes/speemdtemst-cmli
